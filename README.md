@@ -1,2 +1,2 @@
 # Team-collaboration
-Data Structure Team project
+A project for Data Structure
